@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "/"
 title = "Dimension"
 theme = "dimension"
 languageCode = "en-us"
