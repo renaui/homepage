@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Ren&eacute; Nauheimer"
+title = "René Nauheimer"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -7,8 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->Welcome to my personal page fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  description = '<!--[-->Loving the Clouds. Promoting Soul. Spreading Smiles.<!--]--><br />
+                <!--[-->Believes in team human and the magic of vivid communities. <a href="https://html5up.net/license">Read more</a>.<!--]-->'
   logoimage = "/images/rene.jpg"
   copyright = "Rene Nauheimer"
 
@@ -18,9 +18,9 @@ disableKinds=["RSS"]
   link = "https://twitter.com/rene_nauheimer"
 
 [[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/ren%C3%A9-nauheimer-614233126/"
 
 [[params.social]]
   medium = "instagram"
@@ -40,6 +40,21 @@ weight = 1
 [languages.de]
 languageName = "Deutsch"
 weight = 2
-title = "Dimension"
+title = "René Nauheimer"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+
+[languages.fr]
+languageName = "Français"
+weight = 3
+title = "René Nauheimer"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+
+
+[languages.br]
+languageName = "Português"
+weight = 4
+title = "René Nauheimer"
 description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
